@@ -1,0 +1,4 @@
+R5T.D0016.Base - Service definition library for the IValueEqualityComparer<T>, async, and input parameter R5T.D0010.IMessageSink-based service.
+
+Goals
+
